@@ -1,8 +1,8 @@
 # EEL4831_A2a_Dynamic3dArray
 
-Author: Cristian Bencomo
-Class: ELL4831
-Assignment #: 2a
+>Author: Cristian Bencomo
+>Class: ELL4831
+>Assignment #: 2a
 
 Professor pons' programming embedded GUI class, this code handles user input co>
 
