@@ -6,7 +6,7 @@
 
 Professor pons' programming embedded GUI class, this code handles user input co>
 
-#Assignemnt instructions:
+## Assignemnt instructions:         
 Upload zipped complete project
 Develop a console program to build dynamically a three dimensional array of int>
 make sure that you have a single variable int***Ary; to build your data structu>
