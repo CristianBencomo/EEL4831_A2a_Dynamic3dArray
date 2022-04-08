@@ -4,7 +4,7 @@
 >Class: ELL4831     
 >Assignment #: 2a       
 
-Professor pons' programming embedded GUI class, this code handles user input co>
+Professor pons' programming embedded GUI class, this code handles user input commands
 
 ## Assignemnt instructions:         
 Upload zipped complete project
